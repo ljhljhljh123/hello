@@ -3,7 +3,8 @@
 int main()
 {
 	printf("hello word\n");
-
+	
+	printf("you are sb\n");
 	return 0;
 
 }
